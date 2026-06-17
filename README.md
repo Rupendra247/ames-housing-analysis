@@ -45,11 +45,7 @@ ames-housing-analysis/
 
 The analysis identified several important factors influencing house prices. These insights can be used for future predictive modeling and feature engineering.
 
-## Future Work
 
-- Build regression models
-- Perform feature engineering
-- Create an interactive dashboard
 
 ## 📦 Installation
 
