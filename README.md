@@ -12,7 +12,18 @@ Exploratory Data Analysis (EDA) on the Ames Housing dataset to identify key fact
 - Visualizations using Matplotlib and Seaborn
 - Insights into key variables affecting housing prices
 
----
+## Project Structure
+
+ames-housing-analysis/
+│
+├── images/
+├── notebooks/
+   -- analysis.ipynb
+   -- data-wrangling-basic.ipynb   
+├── Housing.csv
+├── README.md
+├── requirements.txt
+
 
 ## 🛠️ Tech Stack
 
