@@ -35,6 +35,21 @@ ames-housing-analysis/
 - Jupyter Notebook
 
 ---
+## Key Findings
+
+- OverallQual is strongly correlated with SalePrice.
+- GrLivArea has a significant impact on housing prices.
+- Newer houses generally sell at higher prices.
+
+## Conclusion
+
+The analysis identified several important factors influencing house prices. These insights can be used for future predictive modeling and feature engineering.
+
+## Future Work
+
+- Build regression models
+- Perform feature engineering
+- Create an interactive dashboard
 
 ## 📦 Installation
 
