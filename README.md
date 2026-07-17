@@ -46,6 +46,7 @@ ames-housing-analysis/
 The analysis identified several important factors influencing house prices. These insights can be used for future predictive modeling and feature engineering.
 
 
+## Author Rupendra Dhungana
 
 ## 📦 Installation
 
@@ -70,8 +71,6 @@ source venv/bin/activate
 # 5. Install required dependencies
 pip install -r requirements.txt
 
-```bash
-Author Rupendra Dhungana
 
 
 
