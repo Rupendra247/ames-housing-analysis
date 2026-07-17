@@ -70,4 +70,9 @@ source venv/bin/activate
 # 5. Install required dependencies
 pip install -r requirements.txt
 
+```bash
 Author Rupendra Dhungana
+
+
+
+
